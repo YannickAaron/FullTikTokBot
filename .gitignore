@@ -1,10 +1,11 @@
 ## Custom
 # userLoginCookieData
-/loginCookies/*
+tiktokSeleniumAPI/loginCookies/
 #Videos
-/media/*
+media/
 #logging
-/logs/*
+logs/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
