@@ -1,6 +1,8 @@
 ## Custom
 # userLoginCookieData
 /loginCookies/*
+#Videos
+/media/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
