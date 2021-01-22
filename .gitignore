@@ -5,6 +5,7 @@ tiktokSeleniumAPI/loginCookies/
 media/
 #logging
 logs/
+config/
 
 
 # Byte-compiled / optimized / DLL files
