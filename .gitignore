@@ -3,6 +3,8 @@
 /loginCookies/*
 #Videos
 /media/*
+#logging
+/logs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
