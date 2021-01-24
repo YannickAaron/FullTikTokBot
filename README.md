@@ -1,3 +1,5 @@
+## Project is still under construction
+
 # FullTikTokBot
 
 ## Usage
@@ -5,12 +7,12 @@
 1) download repo and go into folder
 2) install
 ```bash
+#mac
+sh install.sh 
+#linux
 ./ install.sh 
 ```
-or
-```bash
-sh install.sh 
-```
+3) enjoy
 
 ## Architectures Supported (Host System)
 
