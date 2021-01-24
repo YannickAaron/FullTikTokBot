@@ -1,5 +1,17 @@
 # FullTikTokBot
 
+## Usage
+
+1) download repo and go into folder
+2) install
+```bash
+./ install.sh 
+```
+or
+```bash
+sh install.sh 
+```
+
 ## Architectures Supported (Host System)
 
 The architectures (necessary for chromedriver) currently supported by this image are:
