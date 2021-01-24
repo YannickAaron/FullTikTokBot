@@ -1,5 +1,16 @@
 # FullTikTokBot
 
+## Architectures Supported (Host System)
+
+The architectures (necessary for chromedriver) currently supported by this image are:
+
+- `raspberry pi/aarch64` using `linux/aarch64` (armv7l)
+- `mac:windows/x86_x64` using `linux/x64`
+
+More will come in the future
+
+## File Structure
+
 /tiktokSleniumAPI #contains all files regarding the inofficial tiktok access  
 __/crx contains browser plug-ins  
 __/loginCookies contains the userdata for login  
