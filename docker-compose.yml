@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+   fullTikTokBot:
+     image: fulltiktokbot:latest
+     restart: always
+     volumes:
+     #uses wordpress dir to store the data
+      - ./app:/app
+volumes:
+    app:
