@@ -12,8 +12,6 @@ from fake_useragent import UserAgent
 from time import sleep
 import random
 
-tiktok_username = 'official_failclips'
-tiktok_pw = 'Jsk92JsnJ468!'
 
 sleepTimes = [2.1, 2.8, 3.2]
 

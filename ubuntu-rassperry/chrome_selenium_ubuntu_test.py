@@ -28,12 +28,6 @@ import random
 
 sleepTimes = np.linspace(0,4,num=20).tolist()
 
-tiktok_username = 'official_failclips'
-tiktok_pw = 'Jsk92JsnJ468!'
-
-fb_username = 'tiktok@shareyk.com'
-fb_pw = 'fimges-goChiz-bozwo3'
-
 chrome_options = Options()  
 #chrome_options.add_argument("--headless")
 #chrome_options.add_argument("--incognito")
