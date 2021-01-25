@@ -4,9 +4,10 @@ tiktokSeleniumAPI/loginCookies/
 #Videos
 media/
 #logging
-logs/
-config/
-
+logs/*
+!logs/sc/.gitkeep
+config/*
+!config/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
