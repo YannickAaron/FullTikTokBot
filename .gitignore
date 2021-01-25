@@ -1,13 +1,17 @@
 ## Custom
 # userLoginCookieData
-tiktokSeleniumAPI/loginCookies/
+app/tiktokSeleniumAPI/loginCookies/
 #Videos
-media/
+app/media/cutted/*
+app/media/downloads/*
+app/media/movie_assets/*
+app/media/readyForUpload/*
+app/media/usedFiles/*
 #logging
-logs/*
-!logs/sc/.gitkeep
-config/*
-!config/.gitkeep
+app/logs/*
+!app/logs/sc/.gitkeep
+app/config/*
+!app/config/.gitkeep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
