@@ -8,7 +8,7 @@ app/media/movie_assets/*
 app/media/readyForUpload/*
 app/media/usedFiles/*
 #logging
-app/logs/*
+app/logs/sc/*
 !app/logs/sc/.gitkeep
 app/config/*
 !app/config/.gitkeep
