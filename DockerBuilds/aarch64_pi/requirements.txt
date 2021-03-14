@@ -1,1 +1,6 @@
 xvfb
+selenium
+random_user_agent
+pathlib
+pyvirtualdisplay
+xvfbwrapper
