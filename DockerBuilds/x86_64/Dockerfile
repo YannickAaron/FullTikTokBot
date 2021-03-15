@@ -5,6 +5,7 @@ RUN apt-get update -y && \
 
 RUN DEBIAN_FRONTEND="noninteractive" apt-get -y install chromium-browser=87.0.4280.66-0ubuntu0.18.04.1
 
+#https://stackoverflow.com/questions/58134793/error-while-loading-shared-libraries-libnss3-so-while-running-gtlab-ci-job-to
 RUN apt-get -y install xvfb
 
 COPY ./DockerBuilds/x86_64/requirements.txt /install/requirements.txt
