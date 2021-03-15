@@ -6,7 +6,8 @@ function setUpEnv {
     echo "We detected the following architecture: $arch"
     #should be aarch64 or x86_64
     case $arch in
-        [aarch64]* ) echo 'HOST_ARCHITECTURE=aarch64' >> .env;;
+        #[aarch64]* ) echo 'HOST_ARCHITECTURE=aarch64' >> .env;;
+        [aarch64]* ) echo 'HOST_ARCHITECTURE=x86_64' >> .env;;
         [x86_64]* ) echo 'HOST_ARCHITECTURE=x86_64' >> .env;;
         * ) echo "Architecture not yet supported"; exit;;
     esac
